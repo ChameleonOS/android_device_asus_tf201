@@ -12,7 +12,7 @@
       "revision": "jellybean-mr2.1"
    },
    {
-      "account": "TheMuppets",
+      "project": "TheMuppets",
       "repository": "proprietary_vendor_asus",
       "target_path": "vendor/asus",
       "revision": "cm-10.2"
